@@ -2,12 +2,11 @@
  A matlab app for whole-body fluoscent images processing
 
 
-
 ## 安装
 
 + 首先需要安装MATLAB（[学校软件平台下载地址](http://software.hust.edu.cn/download/matlab.html)）
-+ 下载该插件的安装文件：[下载地址](https://wws.lanzous.com/iXaBHj2gf1i)
-+ 打开MATLAB，单击顶部APP选项卡中的 **安装APP** 选项
++ 下载该插件的安装文件：[下载地址](https://github.com/ChangWenYang/SimpleFluoProcessing/releases)
++ 打开MATLAB，单击顶部APP选项卡中的`安装APP`选项
 
 <img src="https://i.loli.net/2020/12/05/yBWO69Vl2ghPsa1.png" alt="image-20201205081218597" width="300" />
 
@@ -42,7 +41,7 @@
 
 3. 矩形框选图片中感兴趣区域并放大（暂时仅R2018b及以后的版本可用）
 
-   + 先点 **框选ROI** 按钮，再在图片上拖动矩形框选自己感兴趣的区域
+   + 先点 `框选ROI`按钮，再在图片上拖动矩形框选自己感兴趣的区域
 
    + 框选区域超出原图片会选取失败，需要重新点击按钮并框选
 
