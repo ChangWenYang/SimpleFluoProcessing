@@ -9,11 +9,11 @@
 + 下载该插件的安装文件：[下载地址](https://wws.lanzous.com/iXaBHj2gf1i)
 + 打开MATLAB，单击顶部APP选项卡中的 **安装APP** 选项
 
-<img src="https://i.loli.net/2020/12/05/yBWO69Vl2ghPsa1.png" alt="image-20201205081218597" style="zoom: 50%;" />
+<img src="https://i.loli.net/2020/12/05/yBWO69Vl2ghPsa1.png" alt="image-20201205081218597" width="300" />
 
 + 在目录中找到的刚刚下载的mlappinstall文件，双击即可自动开始安装
 
-<img src="https://i.loli.net/2020/12/05/57RlXxodnFupYtf.png" alt="image-20201205081932999" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/12/05/57RlXxodnFupYtf.png" alt="image-20201205081932999" width="300" />
 
 + 安装成功后，在APP栏中会出现标题为`Whole-body imaging processing plugin`的图标
   ![image-20201205120703269](https://i.loli.net/2020/12/05/RU3DI5yZwrLJ9jf.png)
@@ -24,7 +24,7 @@
 
 + 单击APP栏中的插件图标，即可开始使用
 
-<img src="https://i.loli.net/2020/12/05/GO6sd5IWNFrcnT7.png" alt="image-20201205120843893" style="zoom:33%;" />
+<img src="https://i.loli.net/2020/12/05/GO6sd5IWNFrcnT7.png" alt="image-20201205120843893" width="300" />
 
 ### 目前已实现功能
 
@@ -35,7 +35,7 @@
 2. 颜色调节
 
    + 像素值范围调节
-     + 如果想增强对比度，应适当调节减小$\large \frac{Max}{Min}$的值
+     + 如果想增强对比度，应适当调节减小像素值的显示范围
    + 选择colormap
      + 建议选择前四个colormap(jet, turbo, hot, gray), 效果较好
      + 如果对颜色不满意可以用colormap编辑器继续微调
