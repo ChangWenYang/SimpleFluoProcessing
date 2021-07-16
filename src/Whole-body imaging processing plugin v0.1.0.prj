@@ -1,27 +1,24 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="929423173" file="D:\MatlabFile\fluo_process_app\Whole-body imaging processing plugin v0.1.0.prj" location="D:\MatlabFile\fluo_process_app" name="Whole-body imaging processing plugin v0.1.0" target="target.mlapps" target-name="打包为 App">
+  <configuration build-checksum="2030042965" file="D:\Matlab_dir\MATLAB_Add_Ons\Apps\Wholebodyimagingprocessingpluginv010\Whole-body imaging processing plugin v0.1.0.prj" location="D:\Matlab_dir\MATLAB_Add_Ons\Apps\Wholebodyimagingprocessingpluginv010" name="Whole-body imaging processing plugin v0.1.0" target="target.mlapps" target-name="打包为 App">
     <param.appname>Whole-body imaging processing plugin v0.1.0</param.appname>
-    <param.authnamewatermark>YCW</param.authnamewatermark>
-    <param.email />
-    <param.company />
+    <param.authnamewatermark>Changwen Yang</param.authnamewatermark>
+    <param.email>M202073187@hust.edu.cn</param.email>
+    <param.company>HUST</param.company>
     <param.icon />
     <param.icons />
-    <param.summary />
+    <param.summary>a simple tool</param.summary>
     <param.description />
-    <param.screenshot>C:\Users\dtycw\AppData\Local\Temp\tp9a49a596_8350_4923_8b46_2210cd5cad33.png</param.screenshot>
+    <param.screenshot>C:\Users\HP\AppData\Local\Temp\tpe24d44ba_fe7e_4425_bcb5_b5732ee191b9.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
     <param.platforms />
     <param.output>${PROJECT_ROOT}</param.output>
-    <param.guid>52986496-1f8f-41b6-8b1a-6835ac9aa04d</param.guid>
+    <param.guid>b3262bb8-40f1-4bbd-a5ad-ce16e56db124</param.guid>
     <unset>
-      <param.email />
-      <param.company />
       <param.icon />
       <param.icons />
-      <param.summary />
       <param.description />
       <param.version />
       <param.products.name />
@@ -37,19 +34,12 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="D:\MatlabFile" name="fluo_process_app" optional="false">D:\MatlabFile\fluo_process_app</file>
+      <file location="D:\Matlab_dir\MATLAB_Add_Ons\Apps" name="Wholebodyimagingprocessingpluginv010" optional="false">D:\Matlab_dir\MATLAB_Add_Ons\Apps\Wholebodyimagingprocessingpluginv010</file>
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>E:\Matlab</root>
-      <toolboxes>
-        <toolbox name="neuralnetwork" />
-      </toolboxes>
-      <toolbox>
-        <neuralnetwork>
-          <enabled>true</enabled>
-        </neuralnetwork>
-      </toolbox>
+      <root>D:\Software\Matlab2021b</root>
+      <toolboxes />
     </matlab>
     <platform>
       <unix>false</unix>
